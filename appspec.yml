@@ -5,10 +5,7 @@ files:
     destination: /home/yichung/git/blog/
 hooks:
   AfterInstall:
-   - location: echo "hi"
+   - location: deploy.sh
      timeout: 300
      runas: root
-  ApplicationStart:
-   - location: echo "hi"
-     timeout: 300
-     runas: root
+
