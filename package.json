@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "Yiz&#39;s blog site",
+  "main": "index.js",
+  "authors": {
+    "name": "yiz",
+    "email": ""
+  },
+  "repository": "git@github.com:yichung279/blog.git/blog",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
