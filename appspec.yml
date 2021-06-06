@@ -4,7 +4,7 @@ files:
   - source: .
     destination: /home/yichung/git/blog/
 hooks:
-  Install:
+  AfterInstall:
    - location: build.sh
      timeout: 300
      runas: root
