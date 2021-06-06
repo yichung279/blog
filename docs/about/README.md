@@ -10,4 +10,4 @@ WebDevloper，喜歡寫前端，一直有新的工具出來實在太刺激了。
 
 ## Skill
 
-Js Python Vue Django Git Vim GNU/Linux
+Js Python Vue Django Git Vim GNU/Linux CI/CD
