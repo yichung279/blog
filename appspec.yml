@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: .
-    destination: /home/rugia/git/blog/
+    destination: /home/yichung/git/blog/
 hooks:
   AfterInstall:
    - location: echo "hi"
